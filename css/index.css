@@ -1,0 +1,86 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    /* margin-top: 10px; */
+}
+
+.HowToUse {
+    position: relative;
+}
+
+.how-to-use {
+    width: 100%;
+    position: relative;
+}
+
+.login {
+    position: absolute;
+    width: 85%;
+    top: 39.9%;
+    left: 8%;
+}
+
+.questant {
+    position: absolute;
+    width: 85%;
+    top: 81.1%;
+    left: 8%;
+}
+
+.salon001 {
+    text-align: center;
+}
+
+.salon01 {
+    width: 100%;
+}
+
+.salon02 {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.salon03 {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.insta01 {
+    width: 38%; 
+    margin-top: 5px;
+}
+
+.insta {
+    width: 38%;
+    margin-left: 8%;
+    margin-right: 6%;
+}
+
+.hp {
+    width: 38%;
+}
+
+
+.back_button {
+    width: 100%;
+    margin-top: 60px;
+}
